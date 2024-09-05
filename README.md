@@ -6,7 +6,8 @@
 1. Who is this app for?
 1. What does it do, how does it work
 ![image](https://github.com/user-attachments/assets/9a3dc89a-fe81-4325-a54a-773b335a8d02)
-1. Blocks that you showcase your individual skill
+1. Blocks that you showcase your individual skill  ![image](https://github.com/user-attachments/assets/a8a96e3f-fb73-47d3-b389-6cb85d54681c)
+
 1. The images you created
 
    Add the MIT App Inventor File to the Repository
