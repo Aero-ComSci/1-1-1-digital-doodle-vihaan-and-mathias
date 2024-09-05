@@ -5,7 +5,7 @@
 
 1. Who is this app for?
 1. What does it do, how does it work
-1. Add screenshots of the design view or actual app
+![image](https://github.com/user-attachments/assets/9a3dc89a-fe81-4325-a54a-773b335a8d02)
 1. Blocks that you showcase your individual skill
 1. The images you created
 
